@@ -11,4 +11,4 @@ Contact details included:
 - Phone: 020 3355 9971
 - Mobile: 07392 521569
 - Email: info@karema.uk
-- Address: 227B Nether Street, London N3 1NR
+- Address: 227B Nether Street, London N3 1NT
