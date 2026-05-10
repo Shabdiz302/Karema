@@ -1,0 +1,6 @@
+<svg width="260" height="90" viewBox="0 0 260 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M28 48L83 18L138 48" stroke="#111315" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 33V20H142V56" stroke="#111315" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M83 18L138 48L116 56L83 38L50 56L28 48" fill="#D5C7B0" fill-opacity="0.75"/>
+  <text x="18" y="82" font-family="Arial, Helvetica, sans-serif" font-size="38" letter-spacing="1.5" fill="#111315">Karema</text>
+</svg>
